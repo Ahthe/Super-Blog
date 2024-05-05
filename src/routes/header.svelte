@@ -1,15 +1,13 @@
 <script lang="ts">
+	import Toggle from './toggle.svelte'
 	import * as config from '$lib/config'
-	import Toggle from './toggle.svelte';
 </script>
 
 <nav>
-  <!-- Title -->
 	<a href="/" class="title">
 		<b>{config.title}</b>
 	</a>
 
-  <!-- Navigation -->
 	<ul class="links">
 		<li>
 			<a href="/about">About</a>
@@ -22,10 +20,7 @@
 		</li>
 	</ul>
 
-  <!-- Theme -->
-  <button>Toggle</button>
-
-  <Toggle />
+	<Toggle />
 </nav>
 
 <style>

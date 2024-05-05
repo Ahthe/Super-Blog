@@ -9,7 +9,6 @@
 	<title>{config.title}</title>
 </svelte:head>
 
-<!-- Posts -->
 <section>
 	<ul class="posts">
 		{#each data.posts as post}
@@ -25,7 +24,7 @@
 <style>
 	.posts {
 		display: grid;
-		gap: 2rem;
+		gap: var(--size-7);
 	}
 
 	.post {
