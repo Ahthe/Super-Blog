@@ -1,6 +1,6 @@
 ---
 title: Leet Code Series 1
-description: First post.
+description: Two Sum & Valid Parentheses.
 date: '2024-5-8'
 categories:
   - LeetCode
