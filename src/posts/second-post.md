@@ -12,7 +12,6 @@ published: true
 ## Problems List
 
 - [Merge Two Sorted Linked Lists](#merge-two-sorted-linked-lists) 
-- [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
 
 ### Merge Two Sorted Linked Lists
 
@@ -143,5 +142,3 @@ I also wanted to share another way of solving this problem by using recursion
   }
 ```
 -----
-
-### Best Time to Buy and Sell Stock

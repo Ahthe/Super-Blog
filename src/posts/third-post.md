@@ -12,7 +12,6 @@ published: true
 ## Problems List
 
 - [Top K Elements in List](#top-k-elements-in-list)
-- [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
 
 ## Top K Elements in List
 
