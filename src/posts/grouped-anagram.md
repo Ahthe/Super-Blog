@@ -1,5 +1,12 @@
-
-
+---
+title: 4. Group Anagrams - Arrays and Hashing
+description: Group Anagrams.
+date: '2024-10-8'
+categories:
+  - LeetCode
+  - Python
+published: true
+---
 # 4. Group Anagrams - Arrays and Hashing
 
 ## Optimzed Solution
